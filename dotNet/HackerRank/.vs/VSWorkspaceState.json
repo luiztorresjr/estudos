@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\HackerRankStudy",
+    "\\HackerRankStudy\\intefaces"
   ],
-  "SelectedNode": "\\Pair.cs",
+  "SelectedNode": "\\HackerRankStudy\\intefaces\\IResult.cs",
   "PreviewInSolutionExplorer": false
 }
