@@ -17,5 +17,7 @@ namespace HackerRankStudy.intefaces
         public static string pangram(string s) => Pangram.pangrams(s);
         public static void plusMinus(List<int> arr) => PlusMinus.plusMinus(arr);
         public static int sockMerchant(int n, List<int> arr) => Pair.sockMerchant(n, arr);
+
+        public static string twoArrays(int k, List<int> A, List<int> B) => TwoArrays.twoArrays(k, A, B);
     }
 }
